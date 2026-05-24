@@ -43,3 +43,4 @@ router.post('/', async (req, res, next) => {
     next();
   }
 })
+//console.log('API Key: ' + apiKey);
